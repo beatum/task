@@ -1,0 +1,9 @@
+{
+  "name": "task",
+  "author": "Ivan Semernyakov",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.0"
+  }
+}
+
